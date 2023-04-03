@@ -36,7 +36,7 @@ variable "min_size" {
   default     = 1  
 }
 
-variable "maz_size" {
+variable "max_size" {
   description = "Maximum number of instances"
   default     = 2
 }
