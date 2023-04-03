@@ -44,5 +44,5 @@ variable "max_size" {
 variable "region_name" {
   description = "region of deployment"
 
-  default = "us-east-2"
+  default = "us-west-2"
 }
